@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.oss.storage.objectstore.ObjectOrderBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="1" created="1372415703346" modified="1372415703346" owner="SystemOwned" serialVersionUID="20100713103" />
+  <ObjectOrderBean serialVersionUID="20100726101">
+    <objectOrder>
+      <object order="2" />
+      <object order="1" />
+    </objectOrder>
+  </ObjectOrderBean>
+</Oathouse>

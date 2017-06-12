@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.MedicalBean">
+  <ObjectBean identifier="2" archiveYwd="0" groupKey="-2" created="1321640046085" modified="1321640371874" owner="super" serialVersionUID="20100713103" />
+  <MedicalBean childId="-1" name="03 months: DTaP/IPV/Hib vaccine (second dose)" type="IMMUNISATION" description="Protects against diptheria, tentanus, pertussis (whooping cough), polio and Haemophilus influenzae" instruction="" trigger="-1" reviewYwd="50" serialVersionUID="20100718101" />
+</Oathouse>
+

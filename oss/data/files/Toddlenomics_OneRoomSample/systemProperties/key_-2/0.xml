@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.properties.SystemPropertiesBean">
+  <ObjectBean identifier="0" archiveYwd="0" groupKey="-2" created="1281693086291" modified="1384362784873" owner="super" serialVersionUID="20100713103" />
+  <SystemPropertiesBean confirmedPeriodWeeks="8" actualsPeriodWeeks="5" maxAgeMonths="60" adminSuspended="false" reinstateBTIdBit="4100" bookingActualLimit="10" closedDayIncludedInNoticePeriod="false" loyaltyApplyedToEducationDays="false" legacySystem="NONE" actualDropOffIdMandatory="false" actualPickupIdMandatory="false" toExceedCapacityWhenInsertingRequests="false" chargeMargin="true" dropOffChargeMargin="10" pickupChargeMargin="10" taxRate="0" bookingsTaxable="false" firstInvoiceYwd="2013011" creditCardFeeRate="120" paymentInstructions="Please make sure that your payment reaches us by the date it is due.&#xA;Payments can be made:&#xA;- By cheque, payable to Simple Sample Nurseries Ltd; please write your account number on the back&#xA;- By internet bank transfer. Our bank details are:&#xA;Sort code: 01-22-99, Account No: 12345678, Account Name: Simple Sample Nurseries Ltd.  &#xA;Please use your account number as the reference.&#xA;&#xA;Accounts not settled within 7 days of the due date will be deemed overdue and we reserve the right to charge a late payment interest of 4% above the base rate." defaultInvoiceLastYwd="END_NEXT_MONTH" defaultInvoiceDueYwd="START_NEXT_MONTH" minStaff="2" textBTIdStandard="Standard Booking" textBTIdSpecial="Taster Booking" paymentPeriod="AS_INVOICE" regularPaymentInstructions="" serialVersionUID="20110922101">
+    <occupancySdSet_set>
+      <occupancySdSet value="5400000" />
+      <occupancySdSet value="7800000" />
+    </occupancySdSet_set>
+  </SystemPropertiesBean>
+</Oathouse>

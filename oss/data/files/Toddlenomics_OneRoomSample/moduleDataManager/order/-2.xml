@@ -1,0 +1,9 @@
+<Oathouse class="com.oathouse.oss.storage.objectstore.ObjectOrderBean">
+  <ObjectBean identifier="-2" groupKey="-2" created="1302407677917" modified="1302407677917" owner="system" serialVersionUID="20100713103" />
+  <ObjectOrderBean name="-2" label="-2" serialVersionUID="20100726101">
+    <objectOrder>
+      <object order="1" />
+      <object order="2" />
+    </objectOrder>
+  </ObjectOrderBean>
+</Oathouse>

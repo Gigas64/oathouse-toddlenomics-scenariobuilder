@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.properties.AccountHolderBean">
+  <ObjectBean identifier="0" archiveYwd="0" groupKey="-2" created="1295869685907" modified="1384362558001" owner="super" serialVersionUID="20100713103" />
+  <AccountHolderBean contact="Jane Doe" businessName="One Room Nursery" line1="Oathouse" line2="Mosstowie" line3="" city="Elgin" province="Moray" postcode="IV30 8TT" country="UK" phone="01343 541438" superUsername="admin" superPassword="password" returnEmailAddress="admin@toddlenomics.com" returnEmailName="One Room Nursery" currency="GBP" accountId="sim00mos" priceFile="price-data_20110704" validated="true" billingEmail="accounts@toddlenomics.com" suspended="false" serialVersionUID="20100810100" timeZone="Europe/London" language="EN_gb" chargeRate="33" registeredCapacity="10" />
+</Oathouse>

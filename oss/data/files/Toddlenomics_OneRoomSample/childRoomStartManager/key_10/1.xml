@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.ChildRoomStartBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="10" created="1384361783645" modified="1384361783647" owner="SystemOwned" serialVersionUID="20100713103" />
+  <ChildRoomStartBean startYwd="2013462" serialVersionUID="20100925101" />
+</Oathouse>

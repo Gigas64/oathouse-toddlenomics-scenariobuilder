@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.AgeRangeBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="-2" created="1372411796937" modified="1372411796937" owner="super" serialVersionUID="20100713103" />
+  <ObjectSetBean name="2-4 Age Group" label="" serialVersionUID="20101128102">
+    <valueStore_set />
+  </ObjectSetBean>
+  <AgeRangeBean dobAdd="2000" standardNoticeDays="25" specialNoticeDays="25" requiredStaffRatio="3" requiredFloorArea="0" serialVersionUID="20100718103" />
+</Oathouse>

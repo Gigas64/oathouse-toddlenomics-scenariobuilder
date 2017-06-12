@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.MedicalBean">
+  <ObjectBean identifier="9" archiveYwd="0" groupKey="-2" created="1321640658003" modified="1321640658003" owner="super" serialVersionUID="20100713103" />
+  <MedicalBean childId="-1" name="04 months: Pneumococcal vaccine (second dose)" type="IMMUNISATION" description="Protects against pneumococcal infection, which can cause diseases such as pneumonia, septicaemia and meningitis" instruction="" trigger="-1" reviewYwd="350" serialVersionUID="20100718101" />
+</Oathouse>
+

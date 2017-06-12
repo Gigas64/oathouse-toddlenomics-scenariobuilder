@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    MILK CONCESSION DEFAULT VALUES
+    
+    Copyright:  2011 oathouse.com ltd
+    Author:     nick
+    Version:    2.00 July 2011
+    
+    Provides the means to define milk concessions.  This file contains default values to be provided to a new webapp.
+    These values are standard for a UK milk claim as of July 2011, but all params are able to be changed by the user from within the webapp.
+    
+    Params:
+    
+    ObjectBean          created and modified should be altered to reflect the creation of the webapp.
+    
+    MilkConcessionBean
+    claimMinMonths:     The age in month of the youngest child for which a claim is made
+    claimMaxMonths:     The age in month of the oldest child for which a claim is made
+    entitlement:        The quantity of milk per child per day
+    units:              The units the quantity is measured in
+    
+-->
+<Oathouse class="com.oathouse.ccm.cos.concessions.MilkConcessionBean">
+  <ObjectBean identifier="0" archiveYwd="0" groupKey="-2" created="1295873896797" modified="1295873896797" owner="super" serialVersionUID="20100713103" />
+  <MilkConcessionBean claimMinMonths="0" claimMaxMonths="71" entitlement="0.2" units="litres" serialVersionUID="20100810100">
+    <sessionTimes_set>
+      <sessionTime value="540" />
+      <sessionTime value="780" />
+    </sessionTimes_set>
+  </MilkConcessionBean>
+</Oathouse>

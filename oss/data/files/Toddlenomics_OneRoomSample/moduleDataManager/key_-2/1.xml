@@ -1,0 +1,5 @@
+<Oathouse class="com.oathouse.web.security.ModuleDataBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="-2" created="1302407677916" modified="1302407677916" owner="super" serialVersionUID="20100713103" />
+  <ModuleDataBean name="base" active="true" trialActivated="true" billingYwd="2011231" serialVersionUID="20110410200" />
+</Oathouse>
+

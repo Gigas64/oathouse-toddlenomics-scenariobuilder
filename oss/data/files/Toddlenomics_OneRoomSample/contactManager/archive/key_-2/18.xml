@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.ContactBean">
+  <ObjectBean identifier="18" archiveYwd="0" groupKey="-2" created="1384361783759" modified="1384361783768" owner="SystemOwned" serialVersionUID="20100713103" />
+  <ProfileBean title="Mr" surname="Robson" line1="27 Market Drive" line2="" line3="" city="Elgin" province="Moray" postcode="IV30 6NG" country="UK" phone="01165 182257" notes="" serialVersionUID="20100718101">
+    <forenames_set>
+      <forenames value="Robert" />
+    </forenames_set>
+  </ProfileBean>
+  <ContactBean commonName="Robert" business="01113 429912" phone2="" mobile="09733 826484" email="demo@oathouse.com" photoId="-1" availableStart="0" availableEnd="1438" type="NON_PROFESSIONAL" serialVersionUID="20100718101" />
+</Oathouse>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.ChildBean">
+  <ObjectBean identifier="8" archiveYwd="0" groupKey="-2" created="1384361783502" modified="1384361783517" owner="SystemOwned" serialVersionUID="20100713103" />
+  <ProfileBean title="" surname="Stephens" line1="" line2="" line3="" city="" province="" postcode="" country="" phone="" notes="" serialVersionUID="20100718101">
+    <forenames_set>
+      <forenames value="Lukas" />
+    </forenames_set>
+  </ProfileBean>
+  <ChildBean accountId="6" commonName="Lukas" dateOfBirth="2011080" photoId="-1" holidayAllocation="0" bookingDiscountRate="0" fixedItemDiscountRate="0" gender="M" departYwd="2023060" noticeYwd="-1" medFormReceived="true" tariffDiscountOff="false" serialVersionUID="20101015203" />
+</Oathouse>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingRequestBean">
+  <ObjectBean identifier="49" archiveYwd="0" groupKey="7" created="1384361784477" modified="1384361784477" owner="SystemOwned" serialVersionUID="20100713103" />
+  <ObjectSetBean name="Sessions Only" label="#006666" serialVersionUID="20101128102">
+    <valueStore_set>
+      <valueStore value="5400179" />
+      <valueStore value="7800179" />
+    </valueStore_set>
+  </ObjectSetBean>
+  <BookingRequestBean accountId="7" liableContactId="10" dropOffContactId="-1" pickupContactId="-1" bookingTypeId="8194" serialVersionUID="20100807100" />
+</Oathouse>

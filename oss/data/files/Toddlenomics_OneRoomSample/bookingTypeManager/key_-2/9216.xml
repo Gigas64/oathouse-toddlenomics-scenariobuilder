@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingTypeBean">
+  <ObjectBean identifier="9216" archiveYwd="0" groupKey="-2" created="1333044197300" modified="1333044197300" owner="SystemOwned" serialVersionUID="20100713103" />
+  <BookingTypeBean name="REFUND_STANDARD" flagBits="369098752" chargePercent="100" serialVersionUID="21001007100" />
+</Oathouse>
+

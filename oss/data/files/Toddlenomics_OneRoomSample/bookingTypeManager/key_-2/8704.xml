@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingTypeBean">
+  <ObjectBean identifier="8704" archiveYwd="0" groupKey="-2" created="1333044197302" modified="1333044197302" owner="SystemOwned" serialVersionUID="20100713103" />
+  <BookingTypeBean name="DISCOUNT_STANDARD" flagBits="369098752" chargePercent="100" serialVersionUID="21001007100" />
+</Oathouse>
+

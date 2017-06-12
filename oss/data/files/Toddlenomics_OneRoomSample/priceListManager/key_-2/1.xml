@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.finance.PriceListBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="-2" created="1372416531272" modified="1372416531272" owner="super" serialVersionUID="20100713103" />
+  <PriceListBean name="Standard Price List" label="" serialVersionUID="20100807100">
+    <periodSdValues_map>
+      <periodSdValues key="4800059" value="4000" />
+      <periodSdValues key="5400179" value="12000" />
+      <periodSdValues key="7200059" value="4000" />
+      <periodSdValues key="7800179" value="12000" />
+      <periodSdValues key="9600059" value="4000" />
+    </periodSdValues_map>
+  </PriceListBean>
+</Oathouse>

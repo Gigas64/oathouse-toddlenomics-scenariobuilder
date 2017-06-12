@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.MedicalBean">
+  <ObjectBean identifier="25" archiveYwd="0" groupKey="-2" created="1357222281544" modified="1357222281544" owner="super" serialVersionUID="20100713103" />
+  <MedicalBean childId="22" name="No Milk to drink" type="DIET" description="" instruction="" trigger="-1" reviewYwd="2014014" serialVersionUID="20100718101" />
+</Oathouse>
+

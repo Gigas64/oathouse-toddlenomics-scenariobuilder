@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.RelationBean">
+  <ObjectBean identifier="18" archiveYwd="0" groupKey="11" created="1384361783762" modified="1384361783762" owner="SystemOwned" serialVersionUID="20100713103" />
+  <RelationBean type="LIABLE" serialVersionUID="20101020101" />
+</Oathouse>

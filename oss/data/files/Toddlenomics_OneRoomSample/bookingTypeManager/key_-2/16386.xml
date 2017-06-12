@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingTypeBean">
+  <ObjectBean identifier="16386" archiveYwd="0" groupKey="-2" created="1333044197280" modified="1333044197280" owner="super" serialVersionUID="20100713103" />
+  <BookingTypeBean name="ATTENDING_SPECIAL" flagBits="503349248" chargePercent="100" serialVersionUID="21001007100" />
+</Oathouse>
+

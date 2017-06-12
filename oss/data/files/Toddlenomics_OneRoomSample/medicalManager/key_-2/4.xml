@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.MedicalBean">
+  <ObjectBean identifier="4" archiveYwd="0" groupKey="-2" created="1321640216358" modified="1321640401615" owner="super" serialVersionUID="20100713103" />
+  <MedicalBean childId="-1" name="12 months: Hib/MenC booster vaccine (booster dose)" type="IMMUNISATION" description="Protects against Haemophilus influenzae type b (Hib) and Meningitis C" instruction="" trigger="-1" reviewYwd="2000" serialVersionUID="20100718101" />
+</Oathouse>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingBean">
+  <ObjectBean identifier="789" archiveYwd="0" groupKey="2013431" created="1384361797793" modified="1384361797793" owner="SystemOwned" serialVersionUID="20100713103" />
+  <BookingBean ywd="2013431" roomId="1" bookingSd="4800239" spanSd="4800239" actualStart="-1" actualEnd="-1" profileId="9" liableContactId="10" bookingDropOffId="-1" bookingPickupId="-1" actualDropOffId="-1" actualPickupId="-1" bookingTypeId="8194" requestedYwd="2013431" actionBits="0" notes="" state="OPEN" serialVersionUID="20101020252" />
+</Oathouse>

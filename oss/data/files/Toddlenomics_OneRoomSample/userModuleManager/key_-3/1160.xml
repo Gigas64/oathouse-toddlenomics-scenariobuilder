@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.cms.util.module.UserModuleBean">
+  <ObjectBean identifier="1160" archiveYwd="0" groupKey="-3" created="1384362149695" modified="1384362191045" owner="super" serialVersionUID="20100713103" />
+  <UserModuleBean order="3" col="1" minned="false" closed="false" serialVersionUID="201101250101" />
+</Oathouse>

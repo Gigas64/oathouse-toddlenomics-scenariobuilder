@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingTypeBean">
+  <ObjectBean identifier="8224" archiveYwd="0" groupKey="-2" created="1333044197292" modified="1333044197292" owner="SystemOwned" serialVersionUID="20100713103" />
+  <BookingTypeBean name="SICK_STANDARD" flagBits="532676608" chargePercent="100" serialVersionUID="21001007100" />
+</Oathouse>
+

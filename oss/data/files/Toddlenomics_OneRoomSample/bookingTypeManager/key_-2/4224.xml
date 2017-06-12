@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingTypeBean">
+  <ObjectBean identifier="4224" archiveYwd="0" groupKey="-2" created="1333044197290" modified="1333044197290" owner="super" serialVersionUID="20100713103" />
+  <BookingTypeBean name="SUSPENDED_NOCHARGE" flagBits="469762048" chargePercent="0" serialVersionUID="21001007100" />
+</Oathouse>
+

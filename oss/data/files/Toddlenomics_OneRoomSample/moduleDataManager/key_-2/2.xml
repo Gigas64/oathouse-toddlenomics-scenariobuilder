@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.web.security.ModuleDataBean">
+  <ObjectBean identifier="2" archiveYwd="0" groupKey="-2" created="1302407677925" modified="1349205224716" owner="super" serialVersionUID="20100713103" />
+  <ModuleDataBean name="pro" active="true" trialActivated="true" billingYwd="2012485" serialVersionUID="20110410200" />
+</Oathouse>
+

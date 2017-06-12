@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.TimetableBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="-2" created="1372415681449" modified="1372415681449" owner="super" serialVersionUID="20100713103" />
+  <TimetableBean name="Standard Timetable" label="#23f323" serialVersionUID="20101015203">
+    <periodSdStore_map>
+      <periodSdStore_set key="4800059">
+        <periodSdStore value="7190000" />
+        <periodSdStore value="7790000" />
+        <periodSdStore value="9590000" />
+        <periodSdStore value="10190000" />
+      </periodSdStore_set>
+      <periodSdStore_set key="5400179">
+        <periodSdStore value="7190000" />
+        <periodSdStore value="7790000" />
+        <periodSdStore value="9590000" />
+        <periodSdStore value="10190000" />
+      </periodSdStore_set>
+      <periodSdStore_set key="7200059">
+        <periodSdStore value="9590000" />
+        <periodSdStore value="10190000" />
+      </periodSdStore_set>
+      <periodSdStore_set key="7800179">
+        <periodSdStore value="9590000" />
+        <periodSdStore value="10190000" />
+      </periodSdStore_set>
+      <periodSdStore_set key="9600059" />
+    </periodSdStore_map>
+  </TimetableBean>
+</Oathouse>

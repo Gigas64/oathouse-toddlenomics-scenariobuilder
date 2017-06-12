@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    HOLIDAY CONCESSION DEFAULT VALUES
+    
+    Copyright:  2011 oathouse.com ltd
+    Author:     nick
+    Version:    2.00 July 2011
+    
+    Provides the means to define holiday concessions.  This file contains default values to be provided to a new webapp.
+    
+    Params:
+    
+    ObjectBean          created and modified should be altered to reflect the creation of the webapp.
+    
+    HolidayConcessionBean
+    defaultAllocation:  The default number of holidays that a child can take in a year.  Set to zero.  The user can set this later.
+    countFrom:          The "date" on which the yearly count starts.  -1 OR 0-11.  
+                        -1 means anniversary of the child's start date.  
+                        0-11 means the first of the month.  0 = Jan, 11 = Dec
+    limitProRata:       A boolean that defines
+                        true: the allowance can ONLY be used pro-rata (ie earnt days so far in year, rounded up)
+                        false:  the whole allowance can be used at any time in the year
+-->
+<Oathouse class="com.oathouse.ccm.cos.concessions.HolidayConcessionBean">
+  <ObjectBean identifier="0" archiveYwd="0" groupKey="-2" created="1295874041688" modified="1305731979101" owner="super" serialVersionUID="20100713103" />
+  <HolidayConcessionBean defaultAllocation="0" countFrom="-1" limitProRata="false" serialVersionUID="20100810100" />
+</Oathouse>
+

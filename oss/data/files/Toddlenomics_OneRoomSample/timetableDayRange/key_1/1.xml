@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.DayRangeBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="1" created="1372415703344" modified="1372415703344" owner="super" serialVersionUID="20100713103" />
+  <DayRangeBean startYwd="2013260" endYwd="9999524" leftRef="1" rightRef="1" serialVersionUID="20100718101">
+    <days_array>
+      <days index="0" value="true" />
+      <days index="1" value="true" />
+      <days index="2" value="true" />
+      <days index="3" value="true" />
+      <days index="4" value="true" />
+      <days index="5" value="false" />
+      <days index="6" value="false" />
+    </days_array>
+  </DayRangeBean>
+</Oathouse>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.finance.TariffBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="-2" created="1372417035740" modified="1372417053324" owner="super" serialVersionUID="20100713103" />
+  <TariffBean name="Standard Tariff" label="#39ef32" serialVersionUID="20120504100" />
+</Oathouse>

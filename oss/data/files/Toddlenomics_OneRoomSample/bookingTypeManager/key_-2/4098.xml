@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.bookings.BookingTypeBean">
+  <ObjectBean identifier="4098" archiveYwd="0" groupKey="-2" created="1333044197280" modified="1384362413576" owner="super" serialVersionUID="20100713103" />
+  <BookingTypeBean name="ATTENDING_NOCHARGE" flagBits="482574336" chargePercent="0" serialVersionUID="21001007100" />
+</Oathouse>
